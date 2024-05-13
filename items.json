@@ -1,0 +1,91 @@
+[
+    {
+        "name": "iphone14",
+        "price": 510,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15+",
+        "price": 110,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "realme12pro",
+        "price": 220,
+        "company": "realme"
+    },
+    {
+        "name": "realmebudsair3",
+        "price": 150,
+        "company": "realme"
+    },
+    {
+        "name": "oneplus115g",
+        "price": 560,
+        "featured": true,
+        "company": "oneplus"
+    },
+    {
+        "name": "samsunggalaxytab6",
+        "price": 190,
+        "company": "samsung"
+    },
+    {
+        "name": "nikonmirrorlessz6",
+        "price": 120,
+        "featured": true,
+        "company": "nikon"
+    },
+    {
+        "name": "boatnirvana751",
+        "price": 290,
+        "company": "boat"
+    },
+    {
+        "name": "firebolt2",
+        "price": 190,
+        "company": "firebolt"
+    },
+    {
+        "name": "asusstrixgt10",
+        "price": 480,
+        "featured": true,
+        "company": "asus"
+    },
+    {
+        "name": "canoneos1500d",
+        "price": 600,
+        "company": "canon"
+    },
+    {
+        "name": "fastrackfs1",
+        "price": 140,
+        "company": "fastrack"
+    },
+    {
+        "name": "realme11pro",
+        "price": 260,
+        "company": "realme"
+    },
+    {
+        "name": "iphone15pro",
+        "price": 140,
+        "company": "apple"
+    },
+    {
+        "name": "bose700",
+        "price": 195,
+        "company": "bose"
+    },
+    {
+        "name": "seagate2tb",
+        "price": 590,
+        "company": "seagate"
+    },
+    {
+        "name": "hpvictus",
+        "price": 750,
+        "company": "hp"
+    }
+]
